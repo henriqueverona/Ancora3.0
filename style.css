@@ -1,0 +1,89 @@
+img {
+    width: 60%;
+
+}
+
+.fundo1 {
+    background-color: rgb(204, 207, 17);
+    text-align: center;
+}
+
+.fundo2 {
+    background-color: rgb(51, 255, 0);
+    text-align: center;
+}
+
+.fundo3 {
+    background-color: crimson;
+    text-align: center;
+}
+
+.fundo4 {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.fundo5 {
+    background-color: rgb(196, 181, 49);
+    text-align: center;
+}
+
+.texto1 {
+    justify-content: center;
+    border-style: double;
+    border-width: 5px;
+    border-color: green;
+    text-align: center;
+}
+
+.texto2 {
+    border-style: double;
+    border-width: 5px;
+    border-color: yellow;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.texto3 {
+    border-style: double;
+    border-width: 5px;
+    border-color: brown;
+    text-align: center;
+}
+
+.texto4 {
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+    text-align: center;
+}
+
+.texto5 {
+    border-style: double;
+    border-width: 5px;
+    border-color: red;
+    text-align: center;
+}
+
+.p2 {
+    font-size: large;
+    text-align: center;
+
+}
+
+.p3 {
+    font-size: large;
+    text-align: center;
+}
+
+.Emanuel {
+    font-size: large;
+    text-align: center;
+}
+
+.p5 {
+    font-size: large;
+    text-align: center;
+}
