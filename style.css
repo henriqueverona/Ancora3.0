@@ -1,6 +1,6 @@
 img {
     width: 60%;
-
+    border-style: groove;
 }
 
 .fundo1 {
@@ -32,18 +32,23 @@ img {
     justify-content: center;
     border-style: double;
     border-width: 5px;
-    border-color: green;
+    border-color:#80E7AB;
     text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:#80E7AB;
 }
 
 .texto2 {
     border-style: double;
     border-width: 5px;
-    border-color: yellow;
+    border-color: #FDFD22;
     justify-content: center;
+    border-color: #FDFD22 ;
     text-align: center;
-
-
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: #FDFD22;
 }
 
 .texto3 {
@@ -51,20 +56,32 @@ img {
     border-width: 5px;
     border-color: brown;
     text-align: center;
+    background-color: brown;
+        margin-left: 40%;
+    margin-right: 40%;
+    font-size: xx-large;
 }
 
 .texto4 {
-background-color: ;
-  color: ______;
-  border-radius: ______;
-  transition: ______;
-}
-
-.texto5 {
     border-style: double;
     border-width: 5px;
     border-color: red;
     text-align: center;
+        margin-left: 40%;
+    margin-right: 40%;
+    background-color: red;
+    
+}
+
+
+.texto5 {
+    border-style: double;
+    border-width: 5px;
+    border-color: rgb(57, 57, 240);
+    text-align: center;
+    background-color: rgb(59, 59, 238);
+        margin-left: 40%;
+    margin-right: 40%;
 }
 
 .p2 {
@@ -86,4 +103,13 @@ background-color: ;
 .p5 {
     font-size: large;
     text-align: center;
+}
+
+h2 {
+    border-style: dotted;
+}
+h3 {
+    border-style: ridge;
+    margin-left: 40%;
+    margin-right: 40%;
 }
